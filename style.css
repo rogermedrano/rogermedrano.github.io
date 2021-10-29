@@ -1,0 +1,30 @@
+body {
+    
+}
+
+.email p{
+    outline: saddlebrown;
+    bottom: 10em;
+}
+
+
+
+#head{
+    background-color: black;
+}
+
+#para1{
+    color:rgb(53, 23, 23);
+    text-align: center;
+    width: auto;
+}
+
+h1 {
+    text-align: center;
+    color: rgb();
+}
+
+h3 {
+    color: rgb(53, 23, 23);
+}
+
