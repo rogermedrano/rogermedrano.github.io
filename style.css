@@ -1,16 +1,20 @@
 .background {
-    background-image: url("mainBackground.jpg");
+    background-image: url("mainBackground.png");
         background-attachment: fixed;
         background-position: center center;
 }
 
 p {
-    ocolor: white;
+    color: rgb(247, 242, 242);
+    background-color: rgb(19, 18, 18);
+}
+
+#head {
+    color: rgb(15, 15, 15);
 }
 
 #para1{
-    color:rgb(247, 239, 239);
-    text-align: center;
+    color:rgb(30, 30, 31);    
     width: auto;
 }
 
