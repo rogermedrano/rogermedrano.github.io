@@ -51,6 +51,18 @@ h3 {
     width: 30%;
     text-align: center;
 }
+
+.columnTwoThirds1 {
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+
+.columnTwoThirds2 {
+    float: left;
+    width: 75%;
+    text-align: center;
+}
   
 .section {
     flex: 1; /*grow*/
