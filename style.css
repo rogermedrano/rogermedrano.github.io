@@ -45,6 +45,12 @@ h3 {
 .container {
     display: flex;
     }
+
+.column {
+    float: left;
+    width: 30%;
+    text-align: center;
+}
   
 .section {
     flex: 1; /*grow*/
